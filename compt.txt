@@ -1,0 +1,11 @@
+public class Compte
+{
+private float montant;
+public Compte(float m)
+{ montant=m;
+}
+public Compte()
+{ montant = 0;
+}
+public float getMontant()
+{ 
